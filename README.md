@@ -4,18 +4,10 @@ A student at CEDT-Chula. Hardworking and dedicated student looking for an intern
 Passionate about learning new things, improving my understanding
 and gaining experience through internship.
 
-
 <br/>
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
 
 # Skills 🤫
 - Expert at Lua <img width=30 src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg"/> and C++ (Data & Algorithm) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
