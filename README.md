@@ -19,7 +19,8 @@ and gaining experience through internship.
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" height=30/>  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" height=30/>  <img src="https://thaiconfig.com/wp-content/uploads/2023/02/MySQL-Database-%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3.png" height=30/>  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" height=30/>  <img src="https://1000logos.net/wp-content/uploads/2021/11/Docker-Logo.png" height=40/>  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" height=30/>  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Logo_Blender.svg/2560px-Logo_Blender.svg.png" height=30/>
 
 
-# I’m interested in Front-end, Full-stack, Data-science, Data-engieer. 💻
+# Interested Fields 💻
+Front-end, Full-stack, Data-science, Data-engineer
 
 # GitHub Stats 📊
 ![tanthanaphat's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanthanaphat&show_icons=true&theme=radical)
